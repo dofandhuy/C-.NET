@@ -1,0 +1,14 @@
+D:\PRN212\Block5PRN\CodeSlide1\bin\Debug\net8.0\CodeSlide1.exe
+D:\PRN212\Block5PRN\CodeSlide1\bin\Debug\net8.0\CodeSlide1.deps.json
+D:\PRN212\Block5PRN\CodeSlide1\bin\Debug\net8.0\CodeSlide1.runtimeconfig.json
+D:\PRN212\Block5PRN\CodeSlide1\bin\Debug\net8.0\CodeSlide1.dll
+D:\PRN212\Block5PRN\CodeSlide1\bin\Debug\net8.0\CodeSlide1.pdb
+D:\PRN212\Block5PRN\CodeSlide1\obj\Debug\net8.0\CodeSlide1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Block5PRN\CodeSlide1\obj\Debug\net8.0\CodeSlide1.AssemblyInfoInputs.cache
+D:\PRN212\Block5PRN\CodeSlide1\obj\Debug\net8.0\CodeSlide1.AssemblyInfo.cs
+D:\PRN212\Block5PRN\CodeSlide1\obj\Debug\net8.0\CodeSlide1.csproj.CoreCompileInputs.cache
+D:\PRN212\Block5PRN\CodeSlide1\obj\Debug\net8.0\CodeSlide1.dll
+D:\PRN212\Block5PRN\CodeSlide1\obj\Debug\net8.0\refint\CodeSlide1.dll
+D:\PRN212\Block5PRN\CodeSlide1\obj\Debug\net8.0\CodeSlide1.pdb
+D:\PRN212\Block5PRN\CodeSlide1\obj\Debug\net8.0\CodeSlide1.genruntimeconfig.cache
+D:\PRN212\Block5PRN\CodeSlide1\obj\Debug\net8.0\ref\CodeSlide1.dll
