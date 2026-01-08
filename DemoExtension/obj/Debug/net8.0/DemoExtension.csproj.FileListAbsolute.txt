@@ -1,0 +1,14 @@
+D:\PRN212\Block5PRN\DemoExtension\bin\Debug\net8.0\DemoExtension.exe
+D:\PRN212\Block5PRN\DemoExtension\bin\Debug\net8.0\DemoExtension.deps.json
+D:\PRN212\Block5PRN\DemoExtension\bin\Debug\net8.0\DemoExtension.runtimeconfig.json
+D:\PRN212\Block5PRN\DemoExtension\bin\Debug\net8.0\DemoExtension.dll
+D:\PRN212\Block5PRN\DemoExtension\bin\Debug\net8.0\DemoExtension.pdb
+D:\PRN212\Block5PRN\DemoExtension\obj\Debug\net8.0\DemoExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Block5PRN\DemoExtension\obj\Debug\net8.0\DemoExtension.AssemblyInfoInputs.cache
+D:\PRN212\Block5PRN\DemoExtension\obj\Debug\net8.0\DemoExtension.AssemblyInfo.cs
+D:\PRN212\Block5PRN\DemoExtension\obj\Debug\net8.0\DemoExtension.csproj.CoreCompileInputs.cache
+D:\PRN212\Block5PRN\DemoExtension\obj\Debug\net8.0\DemoExtension.dll
+D:\PRN212\Block5PRN\DemoExtension\obj\Debug\net8.0\refint\DemoExtension.dll
+D:\PRN212\Block5PRN\DemoExtension\obj\Debug\net8.0\DemoExtension.pdb
+D:\PRN212\Block5PRN\DemoExtension\obj\Debug\net8.0\DemoExtension.genruntimeconfig.cache
+D:\PRN212\Block5PRN\DemoExtension\obj\Debug\net8.0\ref\DemoExtension.dll
