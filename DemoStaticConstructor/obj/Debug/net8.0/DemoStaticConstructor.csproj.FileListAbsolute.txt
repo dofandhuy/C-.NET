@@ -1,0 +1,4 @@
+D:\PRN212\Block5PRN\DemoStaticConstructor\obj\Debug\net8.0\DemoStaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Block5PRN\DemoStaticConstructor\obj\Debug\net8.0\DemoStaticConstructor.AssemblyInfoInputs.cache
+D:\PRN212\Block5PRN\DemoStaticConstructor\obj\Debug\net8.0\DemoStaticConstructor.AssemblyInfo.cs
+D:\PRN212\Block5PRN\DemoStaticConstructor\obj\Debug\net8.0\DemoStaticConstructor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\PRN212\Block5PRN\DemoLinQ\bin\Debug\net8.0\DemoLinQ.exe
+D:\PRN212\Block5PRN\DemoLinQ\bin\Debug\net8.0\DemoLinQ.deps.json
+D:\PRN212\Block5PRN\DemoLinQ\bin\Debug\net8.0\DemoLinQ.runtimeconfig.json
+D:\PRN212\Block5PRN\DemoLinQ\bin\Debug\net8.0\DemoLinQ.dll
+D:\PRN212\Block5PRN\DemoLinQ\bin\Debug\net8.0\DemoLinQ.pdb
+D:\PRN212\Block5PRN\DemoLinQ\obj\Debug\net8.0\DemoLinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Block5PRN\DemoLinQ\obj\Debug\net8.0\DemoLinQ.AssemblyInfoInputs.cache
+D:\PRN212\Block5PRN\DemoLinQ\obj\Debug\net8.0\DemoLinQ.AssemblyInfo.cs
+D:\PRN212\Block5PRN\DemoLinQ\obj\Debug\net8.0\DemoLinQ.csproj.CoreCompileInputs.cache
+D:\PRN212\Block5PRN\DemoLinQ\obj\Debug\net8.0\DemoLinQ.dll
+D:\PRN212\Block5PRN\DemoLinQ\obj\Debug\net8.0\refint\DemoLinQ.dll
+D:\PRN212\Block5PRN\DemoLinQ\obj\Debug\net8.0\DemoLinQ.pdb
+D:\PRN212\Block5PRN\DemoLinQ\obj\Debug\net8.0\DemoLinQ.genruntimeconfig.cache
+D:\PRN212\Block5PRN\DemoLinQ\obj\Debug\net8.0\ref\DemoLinQ.dll
