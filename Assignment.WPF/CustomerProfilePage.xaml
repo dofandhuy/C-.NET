@@ -1,0 +1,69 @@
+﻿<Page x:Class="Assignment.WPF.CustomerProfilePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Assignment.WPF"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="CustomerProfilePage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <HeaderedContentControl Grid.Row="0" Margin="10" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="20" Foreground="#007ACC" Content="Customer Profile"/>
+
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" Width="350" Margin="0, 20, 0, 0">
+
+            <Grid Margin="5">
+                <TextBlock Margin="5,0,5,0" FontWeight="SemiBold">ID Khách hàng</TextBlock>
+                <TextBox Margin="5,20,5,5" IsReadOnly="True" Name="txtId"/>
+            </Grid>
+
+            <Grid Margin="5">
+                <TextBlock Margin="5,0,5,0" FontWeight="SemiBold">Họ và Tên</TextBlock>
+                <TextBox Margin="5,20,5,5" Name="txtName"/>
+            </Grid>
+
+            <Grid Margin="5">
+                <TextBlock Margin="5,0,5,0" FontWeight="SemiBold">Số điện thoại</TextBlock>
+                <TextBox Margin="5,20,5,5" Name="txtTelephone"/>
+            </Grid>
+
+            <Grid Margin="5">
+                <TextBlock Margin="5,0,5,0" FontWeight="SemiBold">Email</TextBlock>
+                <TextBox Margin="5,20,5,5" Name="txtEmail" IsReadOnly="True"/>
+            </Grid>
+
+            <Grid Margin="5">
+                <TextBlock Margin="5,0,5,0" FontWeight="SemiBold">Ngày sinh</TextBlock>
+                <DatePicker Margin="5,20,5,5" Name="dpDob"/>
+            </Grid>
+
+            <Grid Margin="5">
+                <TextBlock Margin="5,0,5,0" FontWeight="SemiBold">Trạng thái</TextBlock>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="5,25,0,5" IsEnabled="False">
+                    <RadioButton Content="Active" Margin="0,0,30,0" Name="active"/>
+                    <RadioButton Content="Deactive" Name="deactive"/>
+                </StackPanel>
+            </Grid>
+
+            <StackPanel Margin="0, 15, 0, 0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Button Margin="5" Grid.Column="0" Height="35" Click="ButtonBase_OnClick">Tải lại (Refresh)</Button>
+                    <Button Margin="5" Grid.Column="1" Height="35" Click="ButtonBase_OnClickAdd" FontWeight="Bold">Lưu (Save)</Button>
+                </Grid>
+                <Grid>
+                    <Button Margin="5" Height="35" Click="ButtonBase_OnClickPass">Đổi Mật khẩu</Button>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

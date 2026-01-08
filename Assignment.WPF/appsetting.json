@@ -1,0 +1,17 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "ConnectionStrings": {
+    "FUMiniHotelDB": "Data Source=DESKTOP-AQLBPIV;Initial Catalog=FUMiniHotelManagement;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true"
+  },
+  "Admin": {
+    "email": "admin@FUMiniHotelSystem.com",
+    "password": "@@abc123@@"
+  }
+}
