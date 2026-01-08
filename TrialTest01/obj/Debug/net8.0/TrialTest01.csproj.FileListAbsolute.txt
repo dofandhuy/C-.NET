@@ -1,0 +1,4 @@
+D:\PRN212\Block5PRN\TrialTest01\obj\Debug\net8.0\TrialTest01.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Block5PRN\TrialTest01\obj\Debug\net8.0\TrialTest01.AssemblyInfoInputs.cache
+D:\PRN212\Block5PRN\TrialTest01\obj\Debug\net8.0\TrialTest01.AssemblyInfo.cs
+D:\PRN212\Block5PRN\TrialTest01\obj\Debug\net8.0\TrialTest01.csproj.CoreCompileInputs.cache
