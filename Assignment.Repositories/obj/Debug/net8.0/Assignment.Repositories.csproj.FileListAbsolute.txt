@@ -1,0 +1,15 @@
+D:\PRN212\Block5PRN\Assignment.Repositories\bin\Debug\net8.0\Assignment.Repositories.deps.json
+D:\PRN212\Block5PRN\Assignment.Repositories\bin\Debug\net8.0\Assignment.Repositories.dll
+D:\PRN212\Block5PRN\Assignment.Repositories\bin\Debug\net8.0\Assignment.Repositories.pdb
+D:\PRN212\Block5PRN\Assignment.Repositories\bin\Debug\net8.0\Assignment.Model.dll
+D:\PRN212\Block5PRN\Assignment.Repositories\bin\Debug\net8.0\Assignment.Model.pdb
+D:\PRN212\Block5PRN\Assignment.Repositories\obj\Debug\net8.0\Assignment.Repositories.csproj.AssemblyReference.cache
+D:\PRN212\Block5PRN\Assignment.Repositories\obj\Debug\net8.0\Assignment.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Block5PRN\Assignment.Repositories\obj\Debug\net8.0\Assignment.Repositories.AssemblyInfoInputs.cache
+D:\PRN212\Block5PRN\Assignment.Repositories\obj\Debug\net8.0\Assignment.Repositories.AssemblyInfo.cs
+D:\PRN212\Block5PRN\Assignment.Repositories\obj\Debug\net8.0\Assignment.Repositories.csproj.CoreCompileInputs.cache
+D:\PRN212\Block5PRN\Assignment.Repositories\obj\Debug\net8.0\Assignme.FD7BCD57.Up2Date
+D:\PRN212\Block5PRN\Assignment.Repositories\obj\Debug\net8.0\Assignment.Repositories.dll
+D:\PRN212\Block5PRN\Assignment.Repositories\obj\Debug\net8.0\refint\Assignment.Repositories.dll
+D:\PRN212\Block5PRN\Assignment.Repositories\obj\Debug\net8.0\Assignment.Repositories.pdb
+D:\PRN212\Block5PRN\Assignment.Repositories\obj\Debug\net8.0\ref\Assignment.Repositories.dll

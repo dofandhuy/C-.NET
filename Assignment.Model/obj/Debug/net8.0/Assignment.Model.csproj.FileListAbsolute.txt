@@ -1,0 +1,14 @@
+D:\PRN212\Block5PRN\Assignment.Model\bin\Debug\net8.0\Assignment.Model.deps.json
+D:\PRN212\Block5PRN\Assignment.Model\bin\Debug\net8.0\Assignment.Model.runtimeconfig.json
+D:\PRN212\Block5PRN\Assignment.Model\bin\Debug\net8.0\Assignment.Model.dll
+D:\PRN212\Block5PRN\Assignment.Model\bin\Debug\net8.0\Assignment.Model.pdb
+D:\PRN212\Block5PRN\Assignment.Model\obj\Debug\net8.0\Assignment.Model.csproj.AssemblyReference.cache
+D:\PRN212\Block5PRN\Assignment.Model\obj\Debug\net8.0\Assignment.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Block5PRN\Assignment.Model\obj\Debug\net8.0\Assignment.Model.AssemblyInfoInputs.cache
+D:\PRN212\Block5PRN\Assignment.Model\obj\Debug\net8.0\Assignment.Model.AssemblyInfo.cs
+D:\PRN212\Block5PRN\Assignment.Model\obj\Debug\net8.0\Assignment.Model.csproj.CoreCompileInputs.cache
+D:\PRN212\Block5PRN\Assignment.Model\obj\Debug\net8.0\Assignment.Model.dll
+D:\PRN212\Block5PRN\Assignment.Model\obj\Debug\net8.0\refint\Assignment.Model.dll
+D:\PRN212\Block5PRN\Assignment.Model\obj\Debug\net8.0\Assignment.Model.pdb
+D:\PRN212\Block5PRN\Assignment.Model\obj\Debug\net8.0\Assignment.Model.genruntimeconfig.cache
+D:\PRN212\Block5PRN\Assignment.Model\obj\Debug\net8.0\ref\Assignment.Model.dll
