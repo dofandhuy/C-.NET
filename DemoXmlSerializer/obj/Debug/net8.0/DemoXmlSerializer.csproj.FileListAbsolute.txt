@@ -1,0 +1,14 @@
+D:\PRN212\Block5PRN\DemoXmlSerializer\bin\Debug\net8.0\DemoXmlSerializer.exe
+D:\PRN212\Block5PRN\DemoXmlSerializer\bin\Debug\net8.0\DemoXmlSerializer.deps.json
+D:\PRN212\Block5PRN\DemoXmlSerializer\bin\Debug\net8.0\DemoXmlSerializer.runtimeconfig.json
+D:\PRN212\Block5PRN\DemoXmlSerializer\bin\Debug\net8.0\DemoXmlSerializer.dll
+D:\PRN212\Block5PRN\DemoXmlSerializer\bin\Debug\net8.0\DemoXmlSerializer.pdb
+D:\PRN212\Block5PRN\DemoXmlSerializer\obj\Debug\net8.0\DemoXmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Block5PRN\DemoXmlSerializer\obj\Debug\net8.0\DemoXmlSerializer.AssemblyInfoInputs.cache
+D:\PRN212\Block5PRN\DemoXmlSerializer\obj\Debug\net8.0\DemoXmlSerializer.AssemblyInfo.cs
+D:\PRN212\Block5PRN\DemoXmlSerializer\obj\Debug\net8.0\DemoXmlSerializer.csproj.CoreCompileInputs.cache
+D:\PRN212\Block5PRN\DemoXmlSerializer\obj\Debug\net8.0\DemoXmlSerializer.dll
+D:\PRN212\Block5PRN\DemoXmlSerializer\obj\Debug\net8.0\refint\DemoXmlSerializer.dll
+D:\PRN212\Block5PRN\DemoXmlSerializer\obj\Debug\net8.0\DemoXmlSerializer.pdb
+D:\PRN212\Block5PRN\DemoXmlSerializer\obj\Debug\net8.0\DemoXmlSerializer.genruntimeconfig.cache
+D:\PRN212\Block5PRN\DemoXmlSerializer\obj\Debug\net8.0\ref\DemoXmlSerializer.dll
