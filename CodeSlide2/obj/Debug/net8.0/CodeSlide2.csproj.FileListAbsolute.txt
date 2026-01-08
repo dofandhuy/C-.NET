@@ -1,0 +1,4 @@
+D:\PRN212\Block5PRN\CodeSlide2\obj\Debug\net8.0\CodeSlide2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Block5PRN\CodeSlide2\obj\Debug\net8.0\CodeSlide2.AssemblyInfoInputs.cache
+D:\PRN212\Block5PRN\CodeSlide2\obj\Debug\net8.0\CodeSlide2.AssemblyInfo.cs
+D:\PRN212\Block5PRN\CodeSlide2\obj\Debug\net8.0\CodeSlide2.csproj.CoreCompileInputs.cache
